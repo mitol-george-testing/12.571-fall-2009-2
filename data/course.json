@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "25adff0e-cf65-e215-7b57-80d1178b55f5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Near-Surface Geophysical Imaging",
+  "course_description": "This graduate level course presents theories, methodologies, and applications of seismic imaging for solving the shallow near-surface (0 - 500 m) effects on the seismic data processing for oil and gas exploration on land. It introduces both conventional and advanced imaging technologies that have been developed in academia and the seismic industry.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.571",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
